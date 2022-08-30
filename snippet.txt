@@ -1,0 +1,19 @@
+{
+  "Custom Hook Boilerplate": {
+    "prefix": "chb",
+    "body": [
+      "import {useState} from 'react';",
+      "",
+      "const $TM_FILENAME_BASE = () => {",
+      "",
+      "",
+      "return {",
+      "",
+      "}",
+      "}",
+      "",
+      "export default $TM_FILENAME_BASE;"
+    ],
+    "description": "Custom Hook Boilerplate"
+  }
+}
